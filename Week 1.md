@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eow125xV5-c&pp=ygUJYm9vdHN0cmFw
 
 Estimated Hours:
 ---------
-Spent 5 hours so far. 
+Spent 7 hours so far. 
 
 
 Content Insights:
@@ -22,6 +22,10 @@ Content Insights:
 * HTML - Markup language used for structuring and organizing the content of a web page, defining elements such as headings, paragraphs, and links
 * CSS - Stylesheet language used to describe the presentation of HTML elements, including aspects like layout, colors, fonts, and spacing.
 * Bootstrap - Opensource frontend framework that simplifies and fasttracks webdev by providing a collection of pre-designed components and utilities. 
+* Git Commands: 
+    - git add .
+    - git commit -m "comment"
+    - git push  
 
 
 Career / Employability / Learning Insights:
